@@ -1,4 +1,4 @@
-# Email Campaign Manager
+# Email Campaign 
 
 A modern email campaign management system built with React, TypeScript, and Supabase.
 
